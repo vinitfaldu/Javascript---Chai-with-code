@@ -1,2 +1,2 @@
-# Javascript---Chai-with-code
+# Javascript---chai-with-code
 Practices of javascript  
